@@ -3,6 +3,7 @@ import axios from 'axios'
 import SearchBar from './Componentes/SearchBar'
 import MovieList from './Componentes/MovieList'
 import MovieDetail from './Componentes/MovieDetail'
+import './App.css'
 
 function App() {
 

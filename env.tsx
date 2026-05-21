@@ -1,0 +1,1 @@
+export const VITE_OMDB_API_KEY="5c24d692"

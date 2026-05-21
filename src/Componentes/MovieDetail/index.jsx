@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
+import './MovieDetail.css'
+
 
 const MovieDetail = ({ imdbID, onCerrar }) => {
 

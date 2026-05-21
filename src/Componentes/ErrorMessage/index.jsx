@@ -1,14 +1,13 @@
+import './ErrorMessage.css'
+
 const ErrorMessage = ({mensaje}) => 
 {
 
-return 
-(
-<>
+return (
+
 <div className="MensajeDeError">
     <p>{mensaje}</p>
 </div>
-
-</>
 );
 
 }

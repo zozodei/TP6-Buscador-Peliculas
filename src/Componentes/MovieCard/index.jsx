@@ -1,3 +1,5 @@
+import './MovieCard.css'
+
 const MovieCard = ({ pelicula, onClick }) => {
 
   const manejarClick = () => {

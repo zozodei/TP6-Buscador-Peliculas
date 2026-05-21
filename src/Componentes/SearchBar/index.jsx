@@ -1,4 +1,7 @@
+import './SearchBar.css'
+
 const SearchBar = ({ onBuscar }) => {
+
 
   const buscar = (e) => {
     e.preventDefault()
